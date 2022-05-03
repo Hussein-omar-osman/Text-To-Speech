@@ -15,7 +15,7 @@ This is a text-to-speech web app based purely on vanilla javascript. You can pas
 
 ## Live link
 
-- link https://hussein-omar-osman.github.io/Akon-name-generator/
+- link https://brilliant-flan-e27f3a.netlify.app/
 
 ## Known Bugs
 
