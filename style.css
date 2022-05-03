@@ -2,17 +2,22 @@ body {
   width: 90%;
   margin: 0 auto;
   margin-top: 3rem;
+  background-color: #747171;
+}
+label {
+  color: #fff;
 }
 
 #text {
-  width: 100%;
+  width: 95%;
   height: 50vh;
   border: 2px solid black;
   font-size: 1.2rem;
   line-height: 23px;
   font-family: sans-serif;
   border-radius: 10px;
-  padding: 1rem;
+  color: #615f5f;
+  padding: 1.5rem;
 }
 
 .allbtns {
